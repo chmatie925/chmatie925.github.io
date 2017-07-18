@@ -1,6 +1,6 @@
 name: Owen Lyman-Schmidt
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 gems:
   - jekyll-sitemap
