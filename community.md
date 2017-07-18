@@ -1,5 +1,5 @@
 ## Community
 
-West Philly Porchfest
-Radicante Media
-Address This!
+-West Philly Porchfest
+-Radicante Media
+-Address This!
